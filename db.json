@@ -1,0 +1,19 @@
+{
+  "sayaclar": [
+    {
+      "id": 1,
+      "name": "Sayac A",
+      "startVal": 50
+    },
+    {
+      "id": 2,
+      "name": "Sayac B",
+      "startVal": 100
+    },
+    {
+      "id": 3,
+      "name": "Sayac C",
+      "startVal": 150
+    }
+  ]
+}

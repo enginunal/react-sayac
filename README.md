@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### medium link is here -> https://enginunal.medium.com/react-ba%C5%9Flang%C4%B1%C3%A7-b068194b5d44
+
 ## Available Scripts
 
 In the project directory, you can run:
